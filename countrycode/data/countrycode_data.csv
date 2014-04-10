@@ -181,7 +181,7 @@ Norway,NOR,385,162,NO,142,NO,NOR,578,578,NOR,.*norway.*,Europe,Northern Europe
 Oman,OMA,698,221,MU,449,OM,OMN,512,512,OMN,^[^r]*oman.*,Asia,Western Asia
 Pakistan,PAK,770,165,PK,564,PK,PAK,586,586,PAK,.*pakistan.*,Asia,Southern Asia
 Palau,PAL,986,180,PS,565,PW,PLW,585,585,PLW,.*palau.*,Oceania,Micronesia
-"Palestinian Territory, Occupied",,,,,487,PS,PSE,275,275,WBG,.*palestin.*|.*gaza.*|.*west.bank.*,Asia,Western Asia
+"State of Palestine",,,,,487,PS,PSE,275,275,WBG,.*palestin.*|.*gaza.*|.*west.bank.*,Asia,Western Asia
 Panama,PAN,95,166,PM,283,PA,PAN,591,591,PAN,.*panama.*,Americas,Central America
 Papua New Guinea,PNG,910,168,PP,853,PG,PNG,598,598,PNG,.*papua.new.g.*|.*p.*n.*guin.*,Oceania,Melanesia
 Paraguay,PAR,150,169,PA,288,PY,PRY,600,600,PRY,.*paraguay.*,Americas,South America
